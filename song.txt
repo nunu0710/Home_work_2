@@ -6,6 +6,6 @@ chorus_1.txt
 
 verse_3.txt
 
-chorus_2.txt
+chorus_1.txt
 
 verse_4.txt
